@@ -1269,7 +1269,7 @@ msgstr "Состояние неизвестно"
 #: jobs.c:2001
 #, c-format
 msgid "(core dumped) "
-msgstr "(стек памяти сброшен на диск) "
+msgstr "(образ памяти сброшен на диск) "
 
 #: jobs.c:2020
 #, c-format
@@ -1326,7 +1326,7 @@ msgstr "%s: строка %d: "
 #: jobs.c:4334 nojobs.c:919
 #, c-format
 msgid " (core dumped)"
-msgstr " (стек памяти сброшен на диск)"
+msgstr " (образ памяти сброшен на диск)"
 
 #: jobs.c:4346 jobs.c:4359
 #, c-format
